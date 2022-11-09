@@ -1,0 +1,16 @@
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Labb-6\bin\Debug\net5.0\Labb-6.exe
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Labb-6\bin\Debug\net5.0\Labb-6.deps.json
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Labb-6\bin\Debug\net5.0\Labb-6.runtimeconfig.json
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Labb-6\bin\Debug\net5.0\Labb-6.runtimeconfig.dev.json
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Labb-6\bin\Debug\net5.0\Labb-6.dll
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Labb-6\bin\Debug\net5.0\ref\Labb-6.dll
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Labb-6\bin\Debug\net5.0\Labb-6.pdb
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Labb-6\obj\Debug\net5.0\Labb-6.csproj.AssemblyReference.cache
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Labb-6\obj\Debug\net5.0\Labb-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Labb-6\obj\Debug\net5.0\Labb-6.AssemblyInfoInputs.cache
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Labb-6\obj\Debug\net5.0\Labb-6.AssemblyInfo.cs
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Labb-6\obj\Debug\net5.0\Labb-6.csproj.CoreCompileInputs.cache
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Labb-6\obj\Debug\net5.0\Labb-6.dll
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Labb-6\obj\Debug\net5.0\ref\Labb-6.dll
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Labb-6\obj\Debug\net5.0\Labb-6.pdb
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Labb-6\obj\Debug\net5.0\Labb-6.genruntimeconfig.cache
