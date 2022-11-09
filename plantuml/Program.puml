@@ -1,0 +1,7 @@
+class Tärning {
+    AntalSidor : int <<get>> <<set>>
+    generator : Random
+    + Tärning(antalSidor:int)
+    + Kasta() : int
+}
+@enduml
